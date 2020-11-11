@@ -1,0 +1,82 @@
+{
+  "feeds": [
+    {
+      "url": "https://github.com/JoseLuisFriedrich/db/blob/master/images/01.jpg?raw=true",
+      "name": "José Luis",
+      "location": "CABA",
+      "description": "Me gustan los hooks, snippet y emmets"
+    },
+    {
+      "url": "https://github.com/JoseLuisFriedrich/db/blob/master/images/02.jpg?raw=true",
+      "name": "Pablo",
+      "location": "Buenos Aires",
+      "description": "Groso"
+    },
+    {
+      "url": "https://github.com/JoseLuisFriedrich/db/blob/master/images/03.jpg?raw=true",
+      "name": "Paula",
+      "location": "Francia",
+      "description": "Nerd estilo retro"
+    },
+    {
+      "url": "https://github.com/JoseLuisFriedrich/db/blob/master/images/04.jpg?raw=true",
+      "name": "Sebas",
+      "location": "Polo Sur",
+      "description": "Capo"
+    },
+    {
+      "url": "https://github.com/JoseLuisFriedrich/db/blob/master/images/05.jpg?raw=true",
+      "name": "Virginia",
+      "location": "Muy lejos (x eso tardo)",
+      "description": "Siempre entrego tarde los desafíos"
+    },
+    {
+      "url": "https://github.com/JoseLuisFriedrich/db/blob/master/images/06.jpg?raw=true",
+      "name": "Santi",
+      "location": "Arabia",
+      "description": "Fenómeno"
+    },
+    {
+      "url": "https://github.com/JoseLuisFriedrich/db/blob/master/images/07.jpg?raw=true",
+      "name": "Vani",
+      "location": "Antártica",
+      "description": "Genia"
+    },
+    {
+      "url": "https://github.com/JoseLuisFriedrich/db/blob/master/images/08.jpg?raw=true",
+      "name": "Sebas",
+      "location": "Mar del Plata",
+      "description": "Fenómeno"
+    },
+    {
+      "url": "https://github.com/JoseLuisFriedrich/db/blob/master/images/09.jpg?raw=true",
+      "name": "Matias",
+      "location": "Coderlandia",
+      "description": "Tutor"
+    },
+    {
+      "url": "https://github.com/JoseLuisFriedrich/db/blob/master/images/10.jpg?raw=true",
+      "name": "Mario",
+      "location": "Mendoza",
+      "description": "Groso"
+    },
+    {
+      "url": "https://github.com/JoseLuisFriedrich/db/blob/master/images/11.jpg?raw=true",
+      "name": "Maxi",
+      "location": "Córdoba",
+      "description": "Maestro"
+    },
+    {
+      "url": "https://github.com/JoseLuisFriedrich/db/blob/master/images/12.jpg?raw=true",
+      "name": "Ramiro",
+      "location": "Italia",
+      "description": "Master"
+    },
+    {
+      "url": "https://github.com/JoseLuisFriedrich/db/blob/master/images/13.jpg?raw=true",
+      "name": "Ruben",
+      "location": "Techintlandia",
+      "description": "Ingeniero"
+    }
+  ]
+}

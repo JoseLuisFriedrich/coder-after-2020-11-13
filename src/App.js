@@ -25,7 +25,7 @@ export default App;
 ////////////////////////
 
 // 00:00 - 00:07 ✔️ Explicación de los dos desafíos de la semana que viene
-// 00:07 - 00:11 ✔️ Explicación de las funcionalidades del clone de Intagram
+// 00:07 - 00:11 ✔️ Explicación de las funcionalidades del clone de Instagram
 
 // 00:11 - 00:15 ✔️ Pensar / Organizar nuestras carpetas y componentes
 // 00:15 - 00:30 ✔️ NavBar y Icon (usamos props de datos y eventos)
@@ -47,7 +47,7 @@ export default App;
 // 01:18 - 01:30 ✔️ Custom Hook "useFetch"
 // 01:30 - 01:33 😖 Juli! Me la lié p/responderte si useFetch sirve para 1 producto
 // >>>>>>>>>>>>> 💪 La respuesta es sí: useFetch({}, url)
-// 01:35 - 01:40 ☠️ Trivialidades
+// 01:35 - 01:40 🍻 Trivialidades
 
 
 

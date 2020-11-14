@@ -20,7 +20,9 @@ function App() {
 
 export default App;
 
-// Clone de Instagram
+////////////////////////
+// CLONE DE INSTAGRAM //
+////////////////////////
 
 // 00:00 - 00:07 ✔️ Explicación de los dos desafíos de la semana que viene
 // 00:07 - 00:11 ✔️ Explicación de las funcionalidades del clone de Intagram
@@ -35,15 +37,19 @@ export default App;
 
 // 01:00 - 01:04 ✔️ setTimeout (delay), loading (conditional rendering)
 
-// Extra Class
+/////////////////
+// EXTRA CLASS //
+/////////////////
 
 // xx:xx - xx:xx 👻 async/await y cleanup
 // 01:05 - 01:10 ✔️ Emmets, Custom Snippets
 // 01:10 - 01:18 💩 Consumir api de instagram (falló por autenticación...)
 // 01:18 - 01:30 ✔️ Custom Hook "useFetch"
 // 01:30 - 01:33 😖 Juli! Me la lié p/responderte si useFetch sirve para 1 producto
-// xx:xx - xx:xx 💪 La respuesta es sí: useFetch({}, url)
+// >>>>>>>>>>>>> 💪 La respuesta es sí: useFetch({}, url)
 // 01:35 - 01:40 ☠️ Trivialidades
+
+
 
 //Index
 //   App

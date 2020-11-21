@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+https://youtu.be/GJQ6npfucw8
+[![José Luis Friedrich](https://img.youtube.com/vi/GJQ6npfucw8/0.jpg)](https://youtu.be/GJQ6npfucw8)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Clone de Instagram
 
-## Available Scripts
+00:00:00 - 00:07:00 ✔️ Explicación de los dos desafíos de la semana que viene
 
-In the project directory, you can run:
+00:07:00 - 00:11:00 ✔️ Explicación de las funcionalidades del clone de Intagram
 
-### `npm start`
+00:11:00 - 00:15:00 ✔️ Pensar / Organizar nuestras carpetas y componentes
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+00:15:00 - 00:30:00 ✔️ NavBar y Icon (usamos props de datos y eventos)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+00:30:00 - 00:39:00 ✔️ FeedContainer (useState, useEffect, fetch a api propia)
 
-### `npm test`
+00:39:00 - 00:42:00 ✔️ FeedList (map, props)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+00:42:00 - 00:50:00 ✔️ Data Rendering
 
-### `npm run build`
+00:50:00 - 01:00:00 ✔️ Explicar nuevamente el desafío y lógica de contenedores
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+01:00:00 - 01:04:00 ✔️ setTimeout (delay), loading (conditional rendering)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Extra Class
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+00:00:00 - 00:00:00 👻 async/await y cleanup (no lo vimos al final)
 
-### `npm run eject`
+01:05:00 - 01:10:00 ✔️ Emmets, Custom Snippets
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+01:10:00 - 01:18:00 💩 Consumir api de instagram (falló por autenticación...)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+01:18:00 - 01:30:00 ✔️ Custom Hook "useFetch"
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+01:30:00 - 01:33:00 😖 Juli! Me la lié p/responderte si useFetch sirve para 1 producto
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+00:00:00 - 00:00:00 💪 La respuesta es sí: useFetch({}, url)
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+01:35:00 - 01:40:00 ☠️ Trivialidades

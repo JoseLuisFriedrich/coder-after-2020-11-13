@@ -1,7 +1,8 @@
 https://youtu.be/GJQ6npfucw8
+
 [![José Luis Friedrich](https://img.youtube.com/vi/GJQ6npfucw8/0.jpg)](https://youtu.be/GJQ6npfucw8)
 
-Clone de Instagram
+# Clone de Instagram
 
 00:00:00 - 00:07:00 ✔️ Explicación de los dos desafíos de la semana que viene
 
@@ -21,7 +22,7 @@ Clone de Instagram
 
 01:00:00 - 01:04:00 ✔️ setTimeout (delay), loading (conditional rendering)
 
-Extra Class
+# Extra Class
 
 00:00:00 - 00:00:00 👻 async/await y cleanup (no lo vimos al final)
 

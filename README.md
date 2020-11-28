@@ -25,7 +25,7 @@ https://youtu.be/GJQ6npfucw8
 
 # Extra Class
 
-00:00:00 👻 async/await y cleanup (no lo vimos al final)
+👻 async/await y cleanup (no lo vimos al final)
 
 01:05:00 ✔️ Emmets, Custom Snippets
 
@@ -35,6 +35,6 @@ https://youtu.be/GJQ6npfucw8
 
 01:30:00 😖 Juli! Me la lié p/responderte si useFetch sirve para 1 producto
 
-00:00:00 💪 La respuesta es sí: useFetch({}, url)
+💪 La respuesta es sí: useFetch({}, url)
 
 01:35:00 ☠️ Trivialidades

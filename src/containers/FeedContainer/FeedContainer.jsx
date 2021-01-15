@@ -7,7 +7,7 @@ const FeedContainer = () => {
 
   useEffect(() => {
     setTimeout(() => {
-      const url = 'https://my-json-server.typicode.com/JoseLuisFriedrich/coder-after-2020-11-13/feeds';
+      const url = 'https://my-json-server.typicode.com/JoseLuisFriedrich/coder-react.js-2020-11-13-clone-instagram/feeds';
 
       fetch(url)
         .then((response) => {
